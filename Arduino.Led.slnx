@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Arduino.Led/Arduino.Led.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Arduino.Led.Tests/Arduino.Led.Tests.csproj" />
+  </Folder>
+</Solution>
